@@ -1,6 +1,6 @@
 ---
 title: Obe Syllabus Maker V1
-emoji: 😻
+emoji: 🧑‍🏫
 colorFrom: purple
 colorTo: pink
 sdk: streamlit
